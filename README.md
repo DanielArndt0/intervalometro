@@ -1,1 +1,4 @@
-# intervalometro
+- Intervalmeter for Sony photographic camera  
+- Developed on Arduino IDE V.1.8.13
+- Microcontroller ATMEGA328P
+- Daniel Gier Arndt
