@@ -15,4 +15,3 @@ Abra `CameraIntervalometer/CameraIntervalometer.ino` na Arduino IDE, instale as 
 
 Para conectar a saída D3 à câmera, utilize uma interface isolada, como um optoacoplador. Não aplique 5 V diretamente ao conector de disparo da câmera.
 
-Autor: Daniel Gier Arndt.
